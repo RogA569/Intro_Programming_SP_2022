@@ -1,2 +1,2 @@
-# What This Repo Contains
-Exemplary problems I worked on during my lab time in the Spring 2022 course, Introduction to Programming and Problem Solving (Python).
+# Introduction to Programming Labs
+Exemplary problems I worked on during for lab for an introductory programming course at NYU Tandon, Spring 2022.
